@@ -19,8 +19,8 @@ const myObj = {};
 
 myObj[KEY1] = 'Prop1';
 myObj[KEY2] = 'Prop2';
-myObk.key3 = 'Prop3';
-myObk.key4 = 'Prop4';
+myObj.key3 = 'Prop3';
+myObj.key4 = 'Prop4';
 
 /* console.log(myObj[KEY1]);
 console.log(myObj[KEY2]); */
